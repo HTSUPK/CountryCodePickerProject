@@ -48,7 +48,7 @@ public class CountryCodePicker extends RelativeLayout {
     static final int DEFAULT_UNSET = -99;
     static String TAG = "CCP";
     static String BUNDLE_SELECTED_CODE = "selectedCode";
-    static int LIB_DEFAULT_COUNTRY_CODE = 91;
+    static int LIB_DEFAULT_COUNTRY_CODE = 92;
     private static int TEXT_GRAVITY_LEFT = -1, TEXT_GRAVITY_RIGHT = 1, TEXT_GRAVITY_CENTER = 0;
     private static String ANDROID_NAME_SPACE = "http://schemas.android.com/apk/res/android";
     String CCP_PREF_FILE = "CCP_PREF_FILE";
